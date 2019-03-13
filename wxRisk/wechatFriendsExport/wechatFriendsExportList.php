@@ -9,9 +9,9 @@
  *
  * @apiParam     {String}    wechatAlive               //  dsddss@163.com,dsfdsfa@163.com
  * @apiParam      {String}     keyword               //  0  当前页
- * @apiParam      {Number}     departmentId                 //  1    条数
- * @apiParam      {Number}     pageIndex                 //  1    条数
- * @apiParam      {Number}     pageSize                 //  1    条数
+ * @apiParam      {Number}     departmentId                 // 部门id
+ * @apiParam      {Number}     pageIndex                 //    当前页
+ * @apiParam      {Number}     pageSize                 //   条数
  * @apiParam      {Number}     groupId                 //  部门id
  *
  *
