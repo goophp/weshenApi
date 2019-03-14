@@ -7,7 +7,7 @@
  * @apiGroup sensitiveWord
  * @apiVersion 1.0.0
  *
- *  @apiParam  id  [Number]   敏感词Id
+ *  @apiParam   {Number}     id   敏感词Id
 
  *
  *@apiSuccessExample [json-app]  操作成功
